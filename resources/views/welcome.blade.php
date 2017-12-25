@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel First Push
+                    Laravel Salamat
                 </div>
 
                 <div class="links">
